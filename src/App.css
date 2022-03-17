@@ -1,3 +1,20 @@
-.text-center{
+h1,h2{
   text-align: center;
+}
+.singer_container{
+  background-color: aquamarine;
+  margin: 5px;
+  border-radius: 15px;
+  padding: 10px;
+}
+.singer,.person,.friend{
+  margin: 30px;
+  background-color: blueviolet;
+  color: #fff;
+  padding: 8px;
+  border-radius: 8px;
+  text-transform: capitalize;
+}
+.friend{
+  background-color: rgb(43, 226, 186);
 }
